@@ -1,1 +1,1 @@
-# Simpe-Kotlin-App
+# Simple-Kotlin-App
